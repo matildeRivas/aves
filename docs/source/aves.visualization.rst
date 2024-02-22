@@ -16,10 +16,3 @@ Subpackages
    aves.visualization.tables
    aves.visualization.text
 
-Module contents
----------------
-
-.. automodule:: aves.visualization
-   :members:
-   :undoc-members:
-   :show-inheritance:

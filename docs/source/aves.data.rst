@@ -1,13 +1,5 @@
-aves.data package
-=================
-
-Censo
------------------------
-
-.. automodule:: aves.data.census
-   :members:
-   :undoc-members:
-   :show-inheritance:
+Análisis de datos
+===========================
 
 Encuesta Origen Destino
 --------------------------------
@@ -24,3 +16,18 @@ el/los modo(s) de viaje utilizados, etc. También se incluye información socio-
    :undoc-members:
    :show-inheritance:
 
+Carga Censo
+------------------
+
+.. automodule:: aves.data.census.loading
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Lectura Censo
+------------------
+
+.. automodule:: aves.data.census.analysis
+   :members:
+   :undoc-members:
+   :show-inheritance:
